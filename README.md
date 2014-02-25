@@ -26,10 +26,9 @@ Class List:
 	FileIO: Represents the file I/O system for our program.
 
 Responsibility List: 	Arjun Gopisetty: Program backend, GUI, ReadMe, UML 
-			
 			Edward Kim: GUI, Program design, JTable mechanics 
-			
 			Chris Hsiao: File I/O
+			
 		
 		
 
