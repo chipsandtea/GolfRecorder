@@ -14,22 +14,22 @@ Instructions:  The program will be user friendly and not require much instructio
 
 Class List:
 - default package
-o GolfRecorder: Represents the program; contains main method
+	GolfRecorder: Represents the program; contains main method
 - gui
-o GolfFrame: The mainframe of the gui, holds the entire UI together.
-o InitialPanel: Represents the main menu of the program.
-o TablePanel: Represents the table of data.
-o TopPanel: Represents the button functionality in GolfFrame.
+	GolfFrame: The mainframe of the gui, holds the entire UI together.
+	InitialPanel: Represents the main menu of the program.
+	TablePanel: Represents the table of data.
+	TopPanel: Represents the button functionality in GolfFrame.
 -game
-o Course: Represents a golf course.
+	Course: Represents a golf course.
 - io
-o FileIO: Represents the file I/O system for our program.
+	FileIO: Represents the file I/O system for our program.
 
 Responsibility List: 	Arjun Gopisetty: Program backend, GUI, ReadMe, UML 
 			
-						Edward Kim: GUI, Program design, JTable mechanics 
+			Edward Kim: GUI, Program design, JTable mechanics 
 			
-						Chris Hsiao: File I/O
+			Chris Hsiao: File I/O
 		
 		
 
