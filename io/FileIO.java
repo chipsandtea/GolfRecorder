@@ -15,8 +15,8 @@ import java.util.HashMap;
 
 import javax.swing.JOptionPane;
 
-import au.com.bytecode.opencsv.CSVReader;
-import au.com.bytecode.opencsv.CSVWriter;
+import com.opencsv.CSVReader;
+import com.opencsv.CSVWriter;
 
 public class FileIO {
 
